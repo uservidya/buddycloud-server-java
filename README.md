@@ -1,5 +1,5 @@
 # buddycloud Java Server implementation
-
+Jinke mari na..
 A buddycloud server written in Java, implementing the [buddycloud channels](http://buddycloud.org/) protocol.
 
 ## Build status
